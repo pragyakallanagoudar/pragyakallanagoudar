@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pragyakallanagoudar
 - 👀 I’m interested in machine learning fairness, natural language processing, and computational cognitive science.
-- 🌱 I’m currently studying computer science & cognitive science at uc berkeley!
+- 🌱 I’m currently studying computer science & philosophy at uc berkeley!
 - 📫 I can be reached at pkallanagoudar@berkeley.edu or @PragyaMK on Twitter.
 
 <!---
